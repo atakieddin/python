@@ -1,2 +1,2 @@
 # python
-A repository for my golang practice/projects
+A repository for my python practice/projects
